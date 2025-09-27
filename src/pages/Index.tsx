@@ -7,6 +7,7 @@ import Timeline from "@/components/Timeline";
 import Tokenomics from "@/components/Tokenomics";
 import Footer from "@/components/Footer";
 import FloatingShapes from "@/components/FloatingShapes";
+import ColorThemeSelector from "@/components/ColorThemeSelector";
 
 const Index = () => {
   return (
@@ -22,6 +23,7 @@ const Index = () => {
         <Tokenomics />
       </main>
       <Footer />
+      <ColorThemeSelector />
     </div>
   );
 };
