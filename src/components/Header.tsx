@@ -11,6 +11,7 @@ const Header = () => {
     { label: "Utility", href: "#utility" },
     { label: "Tokenomics", href: "#tokenomics" },
     { label: "挖矿", href: "/mint" },
+    { label: "质押", href: "/staking" },
     { label: "Follow us", href: "#follow" }
   ];
 
