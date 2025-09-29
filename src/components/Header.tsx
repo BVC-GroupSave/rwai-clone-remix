@@ -10,6 +10,7 @@ const Header = () => {
     { label: "Timeline", href: "#timeline" },
     { label: "Utility", href: "#utility" },
     { label: "Tokenomics", href: "#tokenomics" },
+    { label: "挖矿", href: "/mint" },
     { label: "Follow us", href: "#follow" }
   ];
 
